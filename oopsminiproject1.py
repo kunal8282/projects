@@ -76,3 +76,6 @@ if __name__ == "__main__":
             continue
         print(' ')
 
+print("Checking new branch")
+print("Adding new branch")
+
